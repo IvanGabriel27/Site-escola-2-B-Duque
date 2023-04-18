@@ -1,5 +1,4 @@
-.cabeçalho{background-color: #C60909;}
-.titulo{background-color: #FFFFFF;}
-.imagem-logo{width: 60px;}
-.cabeçalho-lista{background-color: #FFFFFF;}
-  
+.cabeçalho{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
+.imagem-logo{width: 80px;}
+.cabeçalho-lista{display: inline-block; margin: 0 16px;}
+.site{background-color: white;color: rgb(255, 0, 0);}

@@ -1,4 +1,6 @@
 .cabeçalho{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
 .imagem-logo{width: 80px;}
 .cabeçalho-lista{display: inline-block; margin: 0 16px;}
-.site{background-color: white;color: rgb(255, 0, 0);}
+.site{background-color: white;color: #ff0000;}
+.imagem-jogadores{width: 150px;}
+.rodape{background-color: #C60909; color: white; display: flex; justify-content: space-around;}
